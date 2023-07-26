@@ -8,8 +8,10 @@
 
 ## Usage
 1. Install Python 3.8 and Tensorflow.  
-2. Download this code and change the dataset loading directory accordingly.
-3. This code also requires a Python Package: tensorflow-gpu 2.9.0+, scikit-learn 1.2.2+, numpy 1.23.5+, matplotlib 3.7.1+, scipy 1.9.1+, spectral 0.23.1+.
+2. Download this code and change the dataset loading directory accordingly. Please change the location of the loaded dataset in the code, as well as the last save address for each evaluation method, replacing it with the local directory.
+(1. 安装 Python 3.8 和 Tensorflow。 
+2. 下载此代码并相应更改数据集加载目录。请更改代码中加载数据集的位置，以及每种评估方法的最后保存地址，将其替换为本地目录)
+4. This code also requires a Python Package: tensorflow-gpu 2.9.0+, scikit-learn 1.2.2+, numpy 1.23.5+, matplotlib 3.7.1+, scipy 1.9.1+, spectral 0.23.1+.
 
 ## Thanks
 1.https://github.com/gokriznastic/HybridSN | 
