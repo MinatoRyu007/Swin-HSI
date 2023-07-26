@@ -4,7 +4,9 @@
 
 ## Model structure diagram
 
-![Image text](https://github.com/MinatoRyu007/Swin-HSI/blob/main/Fig/model.png)
+!
+<img src="https://github.com/MinatoRyu007/Swin-HSI/blob/main/Fig/model.png" width="210px">
+
 
 ## Usage
 1. Install Python 3.8 and Tensorflow.  
