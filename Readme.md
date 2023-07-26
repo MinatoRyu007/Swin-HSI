@@ -4,8 +4,7 @@
 
 ## Model structure diagram
 
-!
-<img src="https://github.com/MinatoRyu007/Swin-HSI/blob/main/Fig/model.png" width="210px">
+<img src="https://github.com/MinatoRyu007/Swin-HSI/blob/main/Fig/model.png" width="500px">
 
 
 ## Usage
