@@ -2,6 +2,9 @@
 
 ##  Baisen Liu ,Yuanjia Liu ,Wulin Zhang ,Yiran Tian  and Weili Kong 
 
+## Model structure diagram
+
+![Image text](https://github.com/MinatoRyu007/Swin-HSI/blob/main/Fig/model.png)
 
 ## Usage
 1. Install Python 3.8 and Tensorflow.  
